@@ -170,7 +170,7 @@ HTML_PAGE = """
 
     <footer>
         <p>CampusVault | Flask CI/CD Project</p>
-        <p>Version 2 - Automatic Deployment Test</p>
+        <p>Version 3 - Automatic Deployment Successful</p>
     </footer>
 </body>
 </html>
